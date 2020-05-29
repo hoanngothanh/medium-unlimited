@@ -34,6 +34,7 @@ const urlsList = [
   'https://robinhood.engineering/*',
   'https://blog.hipolabs.com/*',
   'https://ux.shopify.com/*',
+  'https://blog.thefuntasty.com/*',
 ];
 
 export default function intercept() {
